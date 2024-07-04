@@ -3,7 +3,7 @@
 
 ## Abstract
 
-The "Fall Detection using YOLO (You Only Look Once)" project presents an innovative approach to real-time fall detection leveraging state-of-the-art object detection techniques. YOLO, a powerful object detection algorithm, is employed to accurately identify and locate individuals within video streams. The project focuses on the specific application of detecting falls, a critical scenario, and combines YOLO's efficiency with fall-specific training data. The system's architecture involves preprocessing video feeds, applying YOLO for object detection, and implementing fall classification algorithms.
+The Fall Detection using YOLO (You Only Look Once) project presents an innovative approach to real-time fall detection leveraging state-of-the-art object detection techniques. YOLO, a powerful object detection algorithm, is employed to accurately identify and locate individuals within video streams. The project focuses on the specific application of detecting falls, a critical scenario, and combines YOLO's efficiency with fall-specific training data. The system's architecture involves preprocessing video feeds, applying YOLO for object detection, and implementing fall classification algorithms.
 
 ## YOLO Overview
 
